@@ -12,6 +12,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ymmy833y/npm-sample-pkg.git"
+    "url": "git+https://github.com/Ymmy833y/npm-sample-pkg.git"
   }
 }
